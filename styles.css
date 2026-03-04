@@ -1,11 +1,16 @@
 body {
   font-family: Arial, Helvetica, sans-serif;      
-  background-color: pink;
+  background-color: #FAD695;
   text-align: center;
 }
 
 h1 {
-    color:blue;
+    color: #FA2383;
     font-size: 24 px;    
     margin-bottom: 20 px;
+}
+
+h2 {
+  color: #FA4A0F;
+
 }
