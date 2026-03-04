@@ -8,9 +8,25 @@ h1 {
     color: #FA2383;
     font-size: 24 px;    
     margin-bottom: 20 px;
+    font-weight: 700;
 }
 
 h2 {
   color: #FA4A0F;
 
+}
+
+p {
+  font-weight: 400;
+
+}
+
+.icono-red {
+  width: 40px;
+  transition: 0.3s;
+}
+
+.icono-red:hover {
+  transform: scale(1.2);
+  opacity: 0.7;
 }
