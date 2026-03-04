@@ -11,6 +11,12 @@ h1 {
     font-weight: 700;
 }
 
+#mi-id {
+
+  background-color: #FA9B0F;
+
+}
+
 h2 {
   color: #FA4A0F;
 
@@ -19,6 +25,10 @@ h2 {
 p {
   font-weight: 400;
 
+}
+
+.miclase {
+  background-color: #F7846F;
 }
 
 .icono-red {
