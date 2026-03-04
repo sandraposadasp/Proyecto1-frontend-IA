@@ -9,11 +9,17 @@ h1 {
     font-size: 48px;    
     margin-bottom: 20px;
     font-weight: 700;
+    text-align: center;
 }
 
 #mi-id {
 
   background-color: #FA9B0F;
+  padding: 20px 40px;
+  border: 30px;
+  margin: 60px;
+  display:flex;
+  justify-content: center;
 
 }
 
@@ -45,7 +51,15 @@ p {
 
 nav {
   display: flex;
+  justify-content: flex-end;
   gap: 20px;
-  padding: 10px;
+  padding: 12px 20px;
+  margin: 5px;
+  border-radius: 8px;
 
 }
+
+section {
+  padding: 40px;
+}
+
