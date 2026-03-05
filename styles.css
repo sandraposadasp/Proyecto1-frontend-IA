@@ -1,5 +1,5 @@
 body {
-  font-family: "Fredoka", sans-serif;
+  font-family: "Fredoka", Arial, sans-serif;
   background-color: #FAD695;
   text-align: center;
 }
@@ -31,8 +31,9 @@ h2 {
 
 p {
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.6;
+  letter-spacing: 0.05em
 }
 
 .miclase {
