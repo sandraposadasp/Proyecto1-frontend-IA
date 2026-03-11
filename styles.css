@@ -118,6 +118,7 @@ img {
   align-items:center;
   gap:30px;
   flex-wrap:wrap;
+  justify-content: space-around;
 }
 
 .room img{
