@@ -128,3 +128,39 @@ img {
   width:600px;
   max-width:100%;
 }
+
+.container {
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  height: 100vh;
+
+}
+
+.card {
+
+  background-color: #f1e6e1;
+
+  padding: 20px;
+
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+  border-radius: 8px;
+
+  text-align: center;
+
+}
+
+.obras {
+  width: 600px;
+}
+
+@media (max-width: 768px){
+  .obras{
+    width: 100%;
+  }
+}
