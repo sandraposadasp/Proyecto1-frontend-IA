@@ -5,11 +5,11 @@ body {
 }
 
 h1 {
-    color: #FA2383;
-    font-size: 48px;    
-    margin-bottom: 20px;
-    font-weight: 700;
-    text-align: center;
+  color: #FA2383;
+  font-size: 48px;    
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-align: center;
 }
 
 h3 {
@@ -23,7 +23,6 @@ h3 {
 h2 {
   color: #FA4A0F;
   font-size: 32px;
-
 }
 
 p {
@@ -49,8 +48,6 @@ p {
   transform: scale(1.2);
   opacity: 0.7;
 }
-
-
 
 section {
   padding: 40px;
@@ -119,35 +116,22 @@ section {
 }
 
 .container {
-
   display: flex;
-
   justify-content: center;
-
   align-items: center;
-
-
 }
 
 .card {
-
   background-color: #f1e6e1;
-
   padding: 20px;
-
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-
   border-radius: 8px;
-
   text-align: center;
-
   margin: 20px;
-
 }
 
 .obras {
-  width: 600px;
- 
+  width: 600px; 
 }
 
 @media (max-width: 768px){
@@ -164,7 +148,6 @@ section {
   color: white;
   flex-wrap: wrap;
 }
-
 
 .logo {
   font-weight: bold;
