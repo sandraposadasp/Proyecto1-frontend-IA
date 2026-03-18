@@ -16,7 +16,7 @@ h3 {
   color: #FA730F;
 }
 
-#mi-id {
+.miclass {
   color: #FA0F60;
 }
 
@@ -37,7 +37,7 @@ p {
 }
 
 .miclase {
-  background-color: #F7846F;
+  background-color:#FAAD94;
   padding: 20px 40px;
   border: 30px;
   margin: 60px;
@@ -218,7 +218,7 @@ section {
 }
 
 .social {
-  text-align: right;
+  text-align: center;
 }
 
 @media (max-width: 600px) {
@@ -235,4 +235,11 @@ section {
   .newsletter input {
     margin-bottom: 10px;
   }
+}
+
+.slogan{
+  background-color: #FAAD94;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
 }
