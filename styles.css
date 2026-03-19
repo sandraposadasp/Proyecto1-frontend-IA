@@ -92,7 +92,7 @@ section {
 }
 
 
-@media (max-width: 768px){
+@media (max-width: 820px){
   .contenido img{
     width: 100%;
     flex-direction: column;
