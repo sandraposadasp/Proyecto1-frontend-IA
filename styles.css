@@ -258,3 +258,11 @@ section {
 .espacio {
   border-radius: 10px;
 }
+
+.titular {
+  margin: 20px;
+}
+
+.portada {
+  margin: 10px;
+}
