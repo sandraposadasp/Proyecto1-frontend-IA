@@ -99,6 +99,13 @@ section {
   }
 }
 
+@media (max-width: 768px) {
+  .contenido {
+    padding: 10px;
+    margin: 5px;
+  }
+}
+
 .contenido p{
   flex:1; 
 }
