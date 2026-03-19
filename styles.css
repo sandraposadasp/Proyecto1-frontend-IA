@@ -91,6 +91,14 @@ section {
   border-radius:10px;
 }
 
+
+@media (max-width: 768px){
+  .contenido img{
+    width: 100%;
+    flex-direction: column;
+  }
+}
+
 .contenido p{
   flex:1; 
 }
